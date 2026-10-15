@@ -4,6 +4,8 @@
 
 Public documentation and screenshots for a workflow that turns selected source material into source-linked behavior, independent peer designs and prepared artifacts.
 
+![Capability portfolio with five preparation stages](https://raw.githubusercontent.com/wiki/grumpycoffeecup/purple-team-workflow-public/images/portfolio-overview.jpg)
+
 | Start with | Guide |
 | --- | --- |
 | How the project works | [Wiki home](https://github.com/grumpycoffeecup/purple-team-workflow-public/wiki/Home) |
